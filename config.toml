@@ -1,7 +1,6 @@
-siteName = "doing的小破屋"
-siteTitle = "doing的小破屋"
+siteName = "Example Site"
+siteTitle = "Example Site"
 theme = "example"
 siteUrl = "https://example.com"
 
 noBuildFiles = ["private"]
-aboutUrl = "/about.html"
