@@ -1,0 +1,7 @@
+siteName = "doing的小破屋"
+siteTitle = "doing的小破屋"
+theme = "example"
+siteUrl = "https://example.com"
+
+noBuildFiles = ["private"]
+aboutUrl = "/about.html"
